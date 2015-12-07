@@ -18,6 +18,7 @@
 	<br>
  <div class=coverphoto>
 		<img class =" pics" src="Images/fullgroup.jpg" alt="A a full group photo from our photoshoot.">
+    <h2>A Co-ed Country and Pop Fusion Acapella Group </h2> 
         </div>
 <footer  a href="http://chambermusicad.org/wp-content/uploads/2014/03/abstract-music-background.jpg">Background Image from chambermusicad.org Fonts courtsey of 1001 Fonts and Google Fonts 
 </a> <!-- Background image from chambermusicad.org-->
